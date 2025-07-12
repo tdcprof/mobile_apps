@@ -15,7 +15,6 @@ inputs:
     required: true
     default: .
   workdir: .
-    description: Working directory where buildozer.spec is located. Set to `src` if buildozer.spec is in `src` directory
     required: true
     default: .
   buildozer_version:
